@@ -36,6 +36,16 @@ I'm growing toward **Android technical leadership and mobile architecture**, wit
 
 Highlights from applications and improvements I've contributed to.
 
+## GitHub Stats
+
+<div align="center">
+
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsharma0264&show_icons=true&hide_border=false&bg_color=151515&title_color=7FF0B3&text_color=C9D1D9&icon_color=7FF0B3&border_color=7FF0B3)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsharma0264&layout=compact&hide_border=false&bg_color=151515&title_color=7FF0B3&text_color=C9D1D9&border_color=7FF0B3)
+
+</div>
+
 ## Engineering Expertise
 
 | Focus | Approach |
